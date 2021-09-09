@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/background"
+tools:context=".MainActivity" >
+
+
+    <Button
+        android:id="@+id/video"
+        android:layout_width="226dp"
+        android:layout_height="102dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="94dp"
+        android:layout_marginTop="303dp"
+        android:layout_marginBottom="254dp"
+        android:background="@drawable/rounderedbrorders"
+        android:backgroundTint="#989898"
+        android:text="Vedios Lectures"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="-8dp"
+        tools:layout_editor_absoluteY="127dp" />
+
+    <Button
+        android:id="@+id/assessemnt"
+        android:layout_width="226dp"
+        android:layout_height="102dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="157dp"
+        android:background="@drawable/rounderedbrorders"
+        android:backgroundTint="#989898"
+        android:text="Assessment"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="-152dp"
+        tools:layout_editor_absoluteY="75dp" />
+
+
+</RelativeLayout>

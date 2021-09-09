@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4246728885",
+    "firebase_url": "https://assessment-a938a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "assessment-a938a",
+    "storage_bucket": "assessment-a938a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4246728885:android:245db510e55fc21213cefc",
+        "android_client_info": {
+          "package_name": "com.example.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4246728885-r5ocimlgcsfhtls9tgu6hq5mentc4lcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCZa2o710eBEb-M7YQrzOU8BoQyvrJRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4246728885-r5ocimlgcsfhtls9tgu6hq5mentc4lcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
